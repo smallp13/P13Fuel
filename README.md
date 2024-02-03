@@ -1,4 +1,7 @@
 ### About
+Script to allow players to fuel up vehicle at petrol station.
+Comes with animation
+
 Self explanatory if you know what you are doing.
 
 ### Installation
