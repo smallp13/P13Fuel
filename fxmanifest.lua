@@ -1,11 +1,10 @@
 fx_version 'bodacious'
 game 'gta5'
 
-author 'Alcw'
+author 'Seriously?'
 description 'P13 Fuel'
 version '1.0'
 
--- What to run
 client_scripts {
 	'config.lua',
 	'functions/functions_client.lua',
